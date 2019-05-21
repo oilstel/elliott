@@ -1,0 +1,40 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  {{ content }}
+
+  {%- if site.posts.size > 0 -%}
+    <section>
+        <h2>Pots</h2>
+
+          {% assign posts_query = site.posts | where: "type", "pots" %}
+
+          {%- for post in site.posts -%}
+            {%- assign date_format = site.minima.date_format | default: "%B %-d, %Y" -%}
+              <a class="post-link" href="{{ post.url | relative_url }}">
+                <span class="dot" style="background: {{ post.color }}"></span>
+                <span class="post-meta">{{ post.date | date: date_format }}</span> - {{ post.title | escape }} {%- if post.type == 'interview' -%}&nbsp;<span class="type">[interview]</span>{%- endif -%}
+              </a><br />
+          {%- endfor -%}
+
+    </section>
+    
+    <p class="feed-subscribe"><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p>
+  {%- endif -%}
+
+</div>
+
+
+{%- if titles_size > 0 -%}
+<nav>
+    {%- for path in page_paths -%}
+      {%- assign my_page = site.pages | where: "path", path | first -%}
+      {%- if my_page.title -%}
+      <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+      {%- endif -%}
+    {%- endfor -%}
+</nav>
+{%- endif -%}

@@ -1,0 +1,15 @@
+---
+layout: post
+type: pots
+title:  "A quiet service of reflection"
+date:   2019-05-20 22:44:41 -0400
+color: "#4286f4"
+---
+<!-- I'm starting this blog to move away from mainstream publishing platforms. I anticipate it will be similar to my [Instagram](https://www.instagram.com/elliottsphone/), but with more writing ;-) -->
+
+*I took these images in the city last Sunday.*
+
+![](https://files.elliott.computer/images/meditation-sunday-1.jpg)
+
+![](https://files.elliott.computer/images/meditation-sunday-2.jpg)
+
