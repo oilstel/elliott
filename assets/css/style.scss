@@ -86,3 +86,13 @@ article {
 //     font-family: Arial;
 //     font-size: 17px !important;
 // }
+
+a.post-link {
+    display: inline;
+}
+
+@media (max-width: 700px) {
+    .post-link-wrapper {
+        margin-bottom: .3em;
+    }
+}
