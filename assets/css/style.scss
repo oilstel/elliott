@@ -12,7 +12,7 @@ body {
 }
 
 
-h1, h2, h3, h4, em, i, a, ul, ol, li, p {
+h1, h2, h3, h4, a, ul, ol, li, p {
     font-size: $font-size !important;
     font-weight: normal;
     margin: 0;
@@ -73,3 +73,16 @@ hr {
 .highlight {
     background: yellowgreen;
 }
+
+article {
+    max-width: 700px;
+}
+
+#pagination-wrapper {
+    margin-top: 3em;
+}
+
+// .caption {
+//     font-family: Arial;
+//     font-size: 17px !important;
+// }

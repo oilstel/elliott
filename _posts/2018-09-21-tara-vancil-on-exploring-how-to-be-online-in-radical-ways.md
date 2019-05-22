@@ -1,5 +1,4 @@
 ---
-layout: post
 title: Tara Vancil on exploring how to be online in radical ways
 date: 2018-09-21 03:00:00 -04:00
 type: interview
