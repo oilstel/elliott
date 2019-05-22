@@ -1,7 +1,7 @@
 ---
 layout: post
 type: pots
-title:  "Maui logos"
+title:  "Maui Art and Creative People"
 date:   2019-05-21 03:00:00 -0400
 categories: maui
 color: "#f6aaff"
