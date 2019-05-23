@@ -5,6 +5,7 @@ title:  "Maui Art and Creative People"
 date:   2019-05-21 03:00:00 -0400
 categories: maui
 color: "#f6aaff"
+bg-color: "#2f1e6d"
 ---
 I found these logos in the back of Maui Art and Creative People, a catalog from 1987 by Classman Publishing. The premise of the book reminds me of [The Creative Independent](https://thecreativeindependent.com/people), but I like how Maui Art and Creative People is very specific to a time and place. I wish more websites were as specific as this book.
 
