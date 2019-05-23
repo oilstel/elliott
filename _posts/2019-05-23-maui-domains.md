@@ -6,7 +6,7 @@ categories: maui
 color: "#f442ed"
 ---
 
-I looked up place names on Maui and who owns the respective domain names. It’s pretty interesting to see how long they've been registered. Could someone convince them all to link to one another?
+I looked up place names on Maui and who owns the respective domain names. It’s pretty interesting to see when they were first registered. Could someone convince them all to link to one another?
 
 [kihei.com](http://kihei.com)<br />
 Rick Long<br />

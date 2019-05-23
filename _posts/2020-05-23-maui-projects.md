@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Mauinui 1.2 million years ago"
+date: 2019-05-23 03:00:00 -0400
+categories: maui
+color: "#cbf442"
+bg-color: "#878787"
+published: false
+---
+
+1.2 million years ago, Maui, Molokaʻi, Lānaʻi, and Kahoʻolawe were connected in a vast landmass known as [Maui Nui](https://en.wikipedia.org/wiki/Maui_Nui).
+
+![](https://files.elliott.computer/images/mauinui-islands.svg)
+
+Based on this [illustration](https://files.elliott.computer/images/mauinui-islands-price.jpg) by Johnathan Price.
