@@ -1,6 +1,5 @@
 ---
 layout: post
-type: pots
 title:  "Maui domains"
 date:   2019-05-23 03:00:00 -0400
 categories: maui
