@@ -8,7 +8,7 @@ color: "#f45c42"
 
 [Laurel Schwulst](http://laurelschwulst.com/) told me that "blurry images are more in love". I think this means that the colors and shapes in a blurry image are blended together as if they were "in love" with one another.
 
-I've been obsessed with blurry images or rather what happens when you make blurry images instead of sharp images. When I look over my camera roll, which is full of blurry images, it's hard to remember where the images were taken or what they are of. Blurry images seem to be truer to how we store memories in our minds. That blue blotch in this photo could be my friend or it could be a car. There’s some degree of uncertainty with blurry images and also with our memories.
+I've been obsessed with blurry images or rather what happens when you make blurry images instead of sharp images. When I look through my camera roll, which is full of blurry images, it's hard to remember where the images were taken or what they are of. Blurry images seem to be truer to how we store memories in our minds. That blue blotch in this photo could be my friend or it could be a car. There’s some degree of uncertainty with blurry images and also with our memories.
 
 ![](https://files.elliott.computer/images/blurry-images-are-more-in-love.jpg)
 
