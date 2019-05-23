@@ -5,7 +5,6 @@ title:  "Blurry images are more in love"
 date:   2019-05-22 03:00:00 -0400
 categories: maui
 color: "#f45c42"
-published: false
 ---
 
 [Laurel Schwulst](http://laurelschwulst.com/) told me that "blurry images are more in love". I think this means that the colors and shapes in a blurry image are melding together or "in love" with one another.
