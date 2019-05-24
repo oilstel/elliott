@@ -7,6 +7,5 @@ categories: maui
 color: "#f8ffe5"
 bg-color: "#2b0c42"
 ---
-I wish websites looked more like Von's
 
 ![vons-website.jpg](https://files.elliott.computer/images/vons-website.jpg)
