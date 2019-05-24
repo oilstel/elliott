@@ -2,7 +2,8 @@
 layout: post
 title:  "Maui Art and Creative People"
 date:   2019-05-21 03:00:00 -0400
-categories: maui
+categories: 
+- Maui
 color: "#f6aaff"
 bg-color: "#2f1e6d"
 ---

@@ -2,7 +2,8 @@
 layout: post
 title: "Blurry images are more in love"
 date: 2019-05-22 03:00:00 -0400
-categories: maui
+categories:
+- Maui
 color: "#f45c42"
 ---
 

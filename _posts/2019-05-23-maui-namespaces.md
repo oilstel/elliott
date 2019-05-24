@@ -2,7 +2,9 @@
 layout: post
 title: "Maui Namespaces"
 date: 2019-05-23 03:00:00 -0400
-categories: maui
+category:
+- Maui
+- Domain Names
 color: "#f442ed"
 ---
 
