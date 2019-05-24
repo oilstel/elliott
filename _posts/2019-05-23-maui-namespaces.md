@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Maui domains"
+title: "Maui Namespaces"
 date: 2019-05-23 03:00:00 -0400
 categories: maui
 color: "#f442ed"
