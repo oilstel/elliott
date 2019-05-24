@@ -8,8 +8,7 @@ bg-color: "#878787"
 published: false
 ---
 
-1.2 million years ago, Maui, Molokaʻi, Lānaʻi, and Kahoʻolawe were connected in a vast landmass known as [Maui Nui](https://en.wikipedia.org/wiki/Maui_Nui).
+I've been thinking a lot about Maui and the Hawaiian islands in general. Mostly about name spaces and how Hawaii doesn't have much of a digital identity that speaks to the values and needs of the local community. I suppose theres the newspaper but nothing that really speaks from the people. But also I think that the idea of putting an island online is pretty colonist as well.
 
-![](https://files.elliott.computer/images/mauinui-islands.svg)
+I suppose a personal approach is best here. 
 
-Based on this [illustration](https://files.elliott.computer/images/mauinui-islands-price.jpg) by Johnathan Price.
