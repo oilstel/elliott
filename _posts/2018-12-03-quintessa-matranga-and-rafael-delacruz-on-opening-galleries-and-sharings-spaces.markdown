@@ -7,6 +7,10 @@ bg-color: "#727272"
 type: interview
 ---
 
+Rafael Delacruz and Quintessa Matranga are artists who live in New York. Delacruz’s recent exhibitions include Goldie’s Gallery, New York; Pilar Corrias, London; and Reyes Projects, Detroit. Matranga’s past shows include The Loon, Toronto; Freddy, New York; and Queer Thoughts, New York. Both Matranga and Delacruz published books with Nieves, Zurich, earlier this year.
+
+---
+
 **You've both started several galleries in the past. What made you want to start those spaces?**
 
 Quintessa: I liked when I did it in San Francisco. I thought it worked there because there’s really nothing else to do and it seemed to make sense. But then moving here [to NYC], I felt like there was less need for a gallery, so I kind of stopped curating or organizing things.

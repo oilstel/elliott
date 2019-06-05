@@ -24,6 +24,10 @@ color: "#d1f442"
 bg-color: "#1d8791"
 ---
 
+Bryce Wilner is a graphic designer and publisher currently based in New Haven.
+
+---
+
 **Talking about websites can be kind of boring, but could you describe yours a little bit?**
 
 [My site](http://www.brycewilner.com/) is pretty raw at the moment. The format hasn’t changed in a big way since 2013 or 2014. The main premise right now is that the home page is a chronological feed of my client work and collaborations.

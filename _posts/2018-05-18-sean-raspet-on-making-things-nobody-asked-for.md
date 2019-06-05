@@ -27,6 +27,10 @@ weekly_quote_md: You could even argue that there is no such thing as something n
 color: "#095e2f"
 ---
 
+[Sean Raspet](http://seanraspet.org/) is an artist who works with food and fragrance, developing new flavors and scents that challenge commercial conventions of taste. Raspet’s work pushes the limits of the art world, crossing disciplinary lines into the realms of science and finance. He has worked in the Research and Development department at Soylent and is a co-founder of [Nonfood](https://eatnonfood.com/), a company that specializes in algae-based food products.
+
+---
+
 **Elliott: We've been thinking about the corporation as a form of artistic practice, could you talk about the pros and cons of working under a branded identity like Nonfood or Fume, and how that differs from working as Sean Raspet?**
 
 **Sean:** I think there's a blurry line between the two. For me, Nonfood has always been a part of my art practice. But, of course, there are three other people involved and it means something different to each person. One of the cons is that it's just very hard to start a business, to get your initial customer base, and to get to a point where it's self-sustaining. It's the same with art, but developing a business requires a different type of work.

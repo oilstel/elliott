@@ -5,6 +5,10 @@ type: interview
 color: "#29386F"
 ---
 
+As an ocean engineer and an artist, [Jane Chang Mi](http://janecmi.com/) considers the post-colonial environment. She assesses the narratives associated with the landscape through an interdisciplinary and research-based lens. Utilizing multiple mediums, she investigates the land by examining our past, present, and future as we journey towards a technologically oriented society.
+
+---
+
 **I was wondering about your background, as you were an ocean engineer. I'm curious what that is.**
 
 I have a master's degree in Ocean Resource Engineering; essentially, civil engineering as it applies to the coast and/or ocean. A popular or mainstream application would be building a breakwater, to change waves as they approach the coast. Most often to protect the land during storms. In Southern California, there’s one you can see flying into LAX. 

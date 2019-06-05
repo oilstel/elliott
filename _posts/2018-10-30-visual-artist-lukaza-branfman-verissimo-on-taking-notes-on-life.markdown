@@ -62,6 +62,18 @@ is_part_of_grouping: false
 published: false
 ---
 
+[Lukaza Branfman-Verissimo](http://www.lukazabranfman-verissimo.com)
+  is an artist, educator, activist, storyteller, and curator based in Oakland, California.
+  Through the lengthy processes of story collecting, printmaking, painting, dyeing,
+  and sculpture building, she strives to re-create and re-tell her personal tales
+  and those of the people that surround her. Her work has been recently included in
+  exhibitions and performances at STNDRD, San Francisco State University Gallery,
+  September Gallery, Deli Gallery, SFMOMA, The Berkeley Art Museum, and UNTITLED.
+  She is the co-founder and lead curator at [Nook Gallery](http://www.lukazabranfman-verissimo.com/nook-gallery/),
+  a gallery based in a built-in seating nook in her home kitchen.
+
+---
+
 **How would you describe Nook?**
 
 Nook Gallery is located in a built-in seating nook in my kitchen. It’s an intimate gallery space. It hopes to carve out an inclusive and accessible space to support and give room for emerging artists of color, women and queer artists, to exhibit and present work.
