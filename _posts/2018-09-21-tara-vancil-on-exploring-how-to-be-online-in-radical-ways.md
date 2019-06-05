@@ -27,6 +27,10 @@ weekly_quote_md: I like being online and I want to continue being online, but I 
 color: "#ce8208"
 ---
 
+Tara Vancil helped build [Beaker](https://beakerbrowser.com/), an experimental browser for exploring and building the peer-to-peer Web. Previously, she participated in the Recurse Center and was a developer at Cloudflare. When she’s not building websites, she spends her time doing [nails](https://taravancil.com/nails).
+
+---
+
 **What was your first website like?**
 
 Oh boy. My first website is really embarrassing. I really didn't get into the web until about 2014. I didn't grow up online. We didn't have a computer at home, and even when I did finally get a computer at home, I wasn't using it for chat, or Geocities, or really any of the things that I think a lot of web people did in their teenage years. My first exposure to web development was actually in a programming class that I took in high school, and by programming, what I really mean is using Dreamweaver. So my very first website was a spoof on the *American Pie* films. I basically made a promotional website for a film called *American Cake*, and it was as heinous and gaudy as you can probably imagine it to be. It's stuck on a hard drive somewhere. It's in my apartment right now, but it's on a dead device, which is really sad because I remember exactly what it looks like. Oh goodness, how embarrassing.
