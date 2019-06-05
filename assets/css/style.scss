@@ -17,6 +17,10 @@ h1, h2, h3, h4, a, ul, ol, li, p {
     padding: 0;
 }
 
+ol li {
+    margin-left: 26px;
+}
+
 .site-title, h1 {
     display: inline-block;
 }
