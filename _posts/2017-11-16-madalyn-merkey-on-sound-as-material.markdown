@@ -38,6 +38,12 @@ color: "#155b00"
 type: interview
 ---
 
+[Madalyn Merkey](https://madalynmerkey.bandcamp.com) is a composer and performer of live computer music based in the San Francisco Bay Area. Her recent work observes the principles of acoustic instruments and material spaces to design real-time sound synthesis programs for site-specific performances.
+
+In 2015, Merkey translated the pioneer electronic music text, *Due scuole di musica elettronica in Italia* (1968) by composer Enore Zaffiri (b. Turin, 1928), from Italian to English. She first realized the audio portion of Zaffiri’s projects at Mills College in 2014 as part of her MFA thesis in Electronic Music. She then completed further research at the Conservatorio di Musica Luigi Cherubini in Florence, Italy. The translation, *Two Schools of Electronic Music in Italy*, is forthcoming from [Die Schachtel](http://www.dieschachtel.com/).
+
+---
+
 **Many musicians and DJs accumulate extensive collections. Is collecting important to you?**
 
 In relation to music I collect a number of things. Definitely PDFs. I’m always trying to collect historical documents relating to the history of electronic music in an academic setting. I always like reading about festivals and symposiums from the 80’s. I find those are a great source of inspiration. I don’t collect too many samples since what I do is mostly real-time synthesis where everything is generated on the spot. I definitely collect a lot of historical literature relating to electronic music. I also collect cacti.
