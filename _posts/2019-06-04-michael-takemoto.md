@@ -23,7 +23,7 @@ Rich eventually relocated to Honolulu in the late 1990’s (Maui’s loss and Oa
 
 On a personal level, I do recall the 1990’s rather fondly.  I had a studio in the backyard of our family house in Kahului.  I was working at my day job and making art when I could.  I didn’t worry about selling or marketing my work, and loved the creative freedom that resulted.  I was fortunate in having opportunities to exhibit on Maui and Oahu.  I also enjoyed and relished the challenges of interactive installations: the way they pushed me to explore new forms of expression and communication, and how I could involve viewers to experience art and life in reflective, humorous, and hopefully profound ways.    
 
-**It seems like such a productive time to be working as an artist in the islands. Possibly artists took things a bit less serious in those days allowing for more play and experimentation to occur?**
+**It seems like such a productive time to be working as an artist in the islands. Were artists a bit less serious in those days, allowing for more play and experimentation to occur?**
 
 Yes, the 1990's were definitely more playful and experimental on Maui.  Currently, it seems like if you want to do an installation or interactive work at the MACC or the Hui (basically the only two non-commercial art spaces on the island), you need to submit a formal proposal with detailed plans that have to be approved.  One recent exception I had was 2014's Transcendental Infestation at the Honolulu Museum of Art, where I did some preliminary concept studies, but the curator, Jay Jensen, pretty much gave me free rein to do what I wanted once the installation process started.
 
