@@ -1,5 +1,5 @@
 ---
-title: Visual artists Quintessa Matranga and Rafael Delacruz on opening galleries
+title: Quintessa Matranga and Rafael Delacruz on opening galleries
   and sharing spaces
 date: 2018-12-03 03:00:00 -05:00
 color: "#f4b942"
