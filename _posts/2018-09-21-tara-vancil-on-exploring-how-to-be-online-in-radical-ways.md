@@ -57,7 +57,7 @@ Well, there's this myth floating around on the web that the very first web brows
 
 ![](https://files.elliott.computer/images/beaker-editor-1.png)
 
-**Beaker's in-browser web editor.**
+*Beaker's in-browser web editor.*
 
 So self-publishing, for me, is not necessarily about owning your content. It's not all about enabling creativity. There are other tools that enable creativity. I think it's about creating opportunities for the widest swath of people to participate on the web. I think right now, there are so many barriers that can pop up at any given moment when you decide, "I want to make an app, I want to make a game, I want to publish my portfolio, or I want to create an interactive art piece." With Beaker, self-publishing is about reducing as many of those barriers as possible, so that literally everybody can have some hope of meaningfully participating on the web. Because why not? That's what the web is. It's this really strange thing.
 
