@@ -1,5 +1,5 @@
 ---
-title: Visual artist Lukaza Branfman-Verissimo on taking notes on life
+title: Lukaza Branfman-Verissimo on taking notes on life
 date: 2018-10-30 03:00:00 -04:00
 type: interview
 color: "#3f8251"
