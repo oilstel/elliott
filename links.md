@@ -29,4 +29,7 @@ hide_email: true
 <a href="https://jas.life/?rock%20this%20life%20world" target="_blank">Jeffrey Alan Scudder</a><br>
 <a href="http://laurelschwulst.com/?a%20new%20message%20from%20elliott%20!" target="_blank">Laurel Schwulst</a><br>
 <a href="http://adrianaramic.com/?hello%20bug%20world" target="_blank">Adriana Ramić</a><br>
+<a href="https://jongacnik.com/" target="_blank">Jon Gacnik</a><br>
+<a href="https://www.nps.gov/customcf/webcam/dsp_webcam_image.cfm" target="_blank">View of Haleakala Crater</a><br>
+<a href="https://haleakala.today/" target="_blank">Things to do on Maui</a><br>
 
