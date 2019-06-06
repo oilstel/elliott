@@ -33,7 +33,7 @@ hide_email: true
 <a href="https://jongacnik.com/" target="_blank">Jon Gacnik</a><br>
 <a href="https://haleakala.today/" target="_blank">Things to do on Maui</a><br>
 
-<br><br>
+<br>
 
 <div style="display: inline-block; width: 196px; margin-right: 0.5em;"> <a href="http://emptyday.today" sytle="display: block;"> <img src="http://emptyday.today/icons/leaf-emptyday-icon11.png" width="196" style="display: block; margin-bottom: 18px;"> </a><div style="font-family: serif; font-size: 18px; line-height: 24px; margin-bottom: 18px; text-align: center;"> <a href="http://emptyday.today" style="color: black; background: transparent;">http://emptyday.today</a><br> October 11, 2019</div></div>
 
