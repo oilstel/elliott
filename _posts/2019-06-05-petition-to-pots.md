@@ -6,7 +6,7 @@ color: "#1178ff"
 
 ![](https://files.elliott.computer/images/pots.png)
 
-This is a petition to replace all occurrences of the word "post" with "pots".
+This is a petition to replace all occurrences of the word "posts" with "pots".
 
 Sign here: __________________________________
 
