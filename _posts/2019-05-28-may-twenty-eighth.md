@@ -8,6 +8,8 @@ color: "#f5f90e"
 bg-color: "#000000"
 ---
 
-Played tennis with Lily at [McCarren Park](https://www.nycgovparks.org/parks/mccarren-park).
+Played tennis with Lily at [McCarren Park](https://www.nycgovparks.org/parks/mccarren-park)
+
+![](https://files.elliott.computer/images/tennis.png)
 
 
