@@ -2,9 +2,40 @@
 title: "Recommended Products"
 date: 2019-05-28 03:00:00 -0400
 color: "#ff9216"
-published: false
 ---
 
-**A basic laptop case**
+An ongoing list of products that I've owned and would recommend...
 
-[Available on Ebay](https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338547922&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2F272120004984)
+---
+
+![](https://files.elliott.computer/images/felt-laptop-case.jpg)
+
+Basic laptop case
+
+MacBook Pro 13" felt sleeve
+
+[Ebay](https://rover.ebay.com/rover/1/710-53481-19255-0/1?icep_id=114&ipn=icep&toolid=20004&campid=5338547922&mpre=https%3A%2F%2Fwww.ebay.co.uk%2Fitm%2F272120004984)
+
+<br /><br />
+
+
+![](https://files.elliott.computer/images/bose-headphones.jpg)
+
+Headphones
+
+Bose QuietComfort 35 II
+
+[Amazon](https://amzn.to/31kgeJg)
+
+<br /><br />
+
+
+![](https://files.elliott.computer/images/safety-glasses.jpg)
+
+Sunglasses / Safety glasses
+
+Rugged Blue Diablo Safety Glasses (Blue Mirror 3 Pair)
+
+[Amazon](https://amzn.to/2X4RFRr)
+
+<br /><br />
