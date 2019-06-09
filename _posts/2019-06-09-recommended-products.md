@@ -4,7 +4,7 @@ date: 2019-06-09 03:00:00 -0400
 color: "#ff9216"
 ---
 
-An list of products I've owned and would recommend...
+A list of products I've owned and would recommend...
 
 ---
 
