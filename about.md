@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![](https://files.elliott.computer/images/elliott.jpg)
+<img src="https://files.elliott.computer/images/elliott.jpg" style="width: 300px;" />
 
 Elliott Cost is an artist and designer from Maui, Hawaii. Currently, he mantains a design practice called [Bell Kiosk](https://bellkiosk.site). Previously, he worked at Kickstarter's arts publication, [The Creative Independent](https://thecreativeindependent.com/people/).
 
