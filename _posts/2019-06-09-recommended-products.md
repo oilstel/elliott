@@ -49,10 +49,21 @@ Razer DeathAdder Elite Gaming Mouse
 ![](https://files.elliott.computer/images/thermos.jpg)
 
 **Thermos**<br />
-Zojirushi Stainless Vacuum Mug, 10 oz/0.30 L, Lime Yellow<br />
+Zojirushi Stainless Vacuum Mug, 10 oz/0.30 L, Lime Yellow
+
 [Amazon](https://amzn.to/2XG8E9K)
 
 <br /><br />
+
+![](https://files.elliott.computer/images/happy-hacker-keyboard.jpg)
+
+**Keyboard**<br />
+Happy Hacking Keyboard Professional2 (Black No Keytop Print/blank)
+
+[Amazon](https://amzn.to/2WzU86W)
+
+<br /><br />
+
 
 
 <!-- **Vacuum**
