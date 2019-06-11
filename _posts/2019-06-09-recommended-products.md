@@ -4,11 +4,11 @@ date: 2019-06-09 03:00:00 -0400
 color: "#ff9216"
 ---
 
-A list of products I've owned and would recommend...
+[![](https://files.elliott.computer/images/recommended-products.png)](https://files.elliott.computer/sites/recommended-products/)
 
----
+[A list of products](https://files.elliott.computer/sites/recommended-products/) I've owned and would recommend.
 
-![](https://files.elliott.computer/images/felt-laptop-case.jpg)
+<!-- ![](https://files.elliott.computer/images/felt-laptop-case.jpg)
 
 **Laptop case**<br />
 MacBook Pro 13" felt sleeve
@@ -62,7 +62,7 @@ Happy Hacking Keyboard Professional2 (Black No Keytop Print/blank)
 
 [Amazon](https://amzn.to/2WzU86W)
 
-<br /><br />
+<br /><br /> -->
 
 
 
