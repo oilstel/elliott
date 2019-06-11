@@ -9,7 +9,7 @@ I'm currently unemployed so I have some time to work on personal projects. I'm p
 
 *Some constraints (to follow or break):*
 - Each website should be simple enough to finish in a few days time.
-- It would be nice if project challenges me in a different way, but this is also not completely necessary. I'd rather finish these projects instead of agonizing over the tooling.
+- It would be nice if each project challenged me in a different way, but this is not completely necessary. I'd rather finish each project instead of agonizing over the tooling.
 - I'll document my progress in this post.
 
 Stay tuned...
