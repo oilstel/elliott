@@ -1,6 +1,6 @@
 <head>
     <meta charset="utf-8">
-    <title>Elliott's Computer</title>
+    <title>{% if page.is_home %}{{ site.title }}{% else %}{{ page.title }} — {{ site.title }}{% endif %}</title>
     <meta name="description" content="Elliott Cost's blog, files, and experiments.">
     <meta name="author" content="Elliott Cost" />
     <meta name="viewport" content="width=device-width, initial-scale=1">
