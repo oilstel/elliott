@@ -25,7 +25,7 @@ ol li {
     display: inline-block;
 }
 
-h1, h2, h3, h4, .post-list, section, header, .site-title, p, hr {
+h1, h2, h3, h4, .post-list, section, header, .site-title, p, hr, ul {
     margin-bottom: 1em;
 }
 
@@ -54,6 +54,11 @@ ul {
     border-radius: 100%;
     display: inline-block;
     margin-right: 5px;
+}
+
+.post-content ul {
+    list-style: circle;
+    margin-left: 20px;
 }
 
 .type {
