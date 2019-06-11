@@ -3,7 +3,6 @@ title: "4 websites a month"
 date: 2019-06-10 03:00:00 -0400
 color: "#a8c8ff"
 bg-color: "#525c6d"
-published: false
 ---
 
 I'm currently unemployed so I have some time to work on personal projects. I'm passionate about personal websites and constantly have ideas for them. Instead of logging those ideas away, I'm hoping that for the next few months I can just make the websites I dream up. Often I get caught on something simple like the choosing a domain name. Instead of fussing over the details, I will be hosting each site here unless an obvious name comes to mind immediately.
