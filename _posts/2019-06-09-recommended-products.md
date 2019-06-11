@@ -4,7 +4,7 @@ date: 2019-06-09 03:00:00 -0400
 color: "#ff9216"
 ---
 
-[![](https://files.elliott.computer/images/recommended-products.png)](https://files.elliott.computer/sites/recommended-products/)
+![](https://files.elliott.computer/images/recommended-products.png)
 
 [A list of products](https://files.elliott.computer/sites/recommended-products/) I've owned and would recommend.
 
