@@ -2,6 +2,7 @@
 title: "Notes on artist funding"
 date: 2019-06-16 03:00:00 -0400
 color: "#666666"
+published: false
 ---
 
 Some thoughts on Patreon and Drip...
