@@ -1,8 +1,7 @@
 ---
-title: "Some thoughts on Patreon and Drip"
+title: "Notes on artist funding"
 date: 2019-06-16 03:00:00 -0400
-color: "#a8c8ff"
-bg-color: "#666666"
+color: "#666666"
 ---
 
 Some thoughts on Patreon and Drip...
