@@ -10,7 +10,7 @@ I made [Contemporary Art Blur](http://blur.website/gauss.php?url=http%3A%2F%2Fww
 
 *While working, the oceans rose flooding the galleries. The servers of archived photographs stopped running. The exhibition catalogues became wet; smudging the images into an unrecognizable blur.*
 
-Questions:
+<!-- Questions:
 
 - What forms of art cannot be documented in images?
-- What other methods can we use to document or archive artistic endeavors?
+- What other methods can we use to document or archive artistic endeavors? -->
