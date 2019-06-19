@@ -54,13 +54,13 @@ Mt. Woodson (via hpwren.ucsd.edu)
 <!-- ![](http://webcam.locogringo.com/akumal/netcam-0.jpg)
 Akumal Beach, Quintana Roo, Mexico -->
 
----
+<!-- ---
 
 ![](https://dsx.weather.com/util/image/map/acttemp_1280x720.jpg)
 Weather, US Temps
 
-<!-- ![](https://dsx.weather.com/util/image/map/WEB_Current_Weather_Map_1280x720.jpg)
-Weather, US Storms -->
+![](https://dsx.weather.com/util/image/map/WEB_Current_Weather_Map_1280x720.jpg)
+Weather, US Storms
 
 ![](http://radar.weather.gov/ridge/Conus/RadarImg/northeast.gif)
 Radar, Northeast
@@ -69,5 +69,5 @@ Radar, Northeast
 Radar, Pacific Southwest
 
 ![](http://images.intellicast.com/WxImages/Radar/usa.gif)
-Radar US
+Radar US -->
 
