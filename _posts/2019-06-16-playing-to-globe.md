@@ -1,7 +1,7 @@
 ---
 title: "Playing to globe"
 date: 2019-06-16 03:00:00 -0400
-color: "#a8c8ff"
+color: "#4d7ac1"
 bg-color: "#17315b"
 ---
 
