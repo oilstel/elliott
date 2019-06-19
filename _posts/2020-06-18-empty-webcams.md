@@ -4,7 +4,7 @@ date: 2019-06-18 03:00:00 -0400
 color: "#116625"
 ---
 
-I visual mirror of some favorites from [this webcam list](http://netcam-viewer.appspot.com/Print?id=102845922780616856945).
+I visual mirror of some favorites from [this list](http://netcam-viewer.appspot.com/Print?id=102845922780616856945).
 
 ![](https://www.nps.gov/featurecontent/ard/webcams/images/grcalarge.jpg)
 Grand Canyon
