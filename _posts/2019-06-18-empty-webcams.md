@@ -2,6 +2,7 @@
 title: "Empty webcams"
 date: 2019-06-18 03:00:00 -0400
 color: "#116625"
+icon: https://www.nps.gov/featurecontent/ard/webcams/images/grcalarge.jpg
 ---
 
 I visual mirror of some favorites from [this list](http://netcam-viewer.appspot.com/Print?id=102845922780616856945).
