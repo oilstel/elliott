@@ -2,6 +2,7 @@
 title: "Apartment box"
 date: 2019-06-20 03:00:00 -0400
 color: "#f48942"
+social_image: https://files.elliott.computer/images/apartment-box-32.jpg
 ---
 
 <!-- ![](https://files.elliott.computer/images/apartment-box-1.jpg) -->
