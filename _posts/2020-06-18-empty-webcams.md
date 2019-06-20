@@ -12,8 +12,8 @@ Grand Canyon
 ![](https://copyrighted.seejh.com/hoback/hoback.jpg?rand=1522081283211)
 Hoback River, WY
 
-![](https://www.ucolick.org/main/science/images/cam1.jpg)
-Mt. Lick Observatory
+<!-- ![](https://www.ucolick.org/main/science/images/cam1.jpg)
+Mt. Lick Observatory -->
 
 ![](https://www.nps.gov/webcams-mora/mountain.jpg)
 Mt. Rainier
