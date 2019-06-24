@@ -15,6 +15,8 @@ color: "#ccbe9b"
 - [Berlin Clock by Karsten Rauer](https://apps.apple.com/us/app/berlin-clock/id325528847)
 - [Weird Type by Zach Lieberman](https://apps.apple.com/us/app/weird-type/id1352785248)
 
+This is a growing knowledge list. Email me at elliottcost@gmail.com with suggestions.
+
 ---
 
 
