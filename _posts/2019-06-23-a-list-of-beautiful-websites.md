@@ -2,6 +2,7 @@
 title: "A list of beautiful websites"
 date: 2019-06-23 05:00:00 -0400
 color: "#4286f4"
+published: false
 ---
 
 Below I've compiled a list of the most beautiful websites I've ever seen.
