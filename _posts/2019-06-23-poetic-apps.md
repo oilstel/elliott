@@ -1,6 +1,6 @@
 ---
 title: "A list of poetic mobile apps"
-date: 2019-06-23 03:00:00 -0400
+date: 2019-06-23 04:00:00 -0400
 color: "#ccbe9b"
 ---
 
