@@ -2,6 +2,7 @@
 title: "Empty webcams"
 date: 2019-06-18 03:00:00 -0400
 color: "#116625"
+icon: https://www.nps.gov/featurecontent/ard/webcams/images/grcalarge.jpg
 ---
 
 I visual mirror of some favorites from [this list](http://netcam-viewer.appspot.com/Print?id=102845922780616856945).
@@ -12,8 +13,8 @@ Grand Canyon
 ![](https://copyrighted.seejh.com/hoback/hoback.jpg?rand=1522081283211)
 Hoback River, WY
 
-![](https://www.ucolick.org/main/science/images/cam1.jpg)
-Mt. Lick Observatory
+<!-- ![](https://www.ucolick.org/main/science/images/cam1.jpg)
+Mt. Lick Observatory -->
 
 ![](https://www.nps.gov/webcams-mora/mountain.jpg)
 Mt. Rainier
