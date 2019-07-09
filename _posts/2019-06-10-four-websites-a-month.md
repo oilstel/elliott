@@ -17,7 +17,7 @@ bg-color: "#525c6d"
     }
 </style>
 
-*Update: I realized soon after posting this that I had to revise rules. Instead of makes 4 independent websites per month, I will be publishing 4 projects a month. These could be posts on this very blog or a series of photographs taken in the park.*
+*Update: I realized soon after posting this that I had to revise the rules. Instead of makes 4 websites per month, I will be publishing 4 projects per month. A "project" could just a some writing on this very blog or a series of photographs taken in a park.*
 
 ---
 
