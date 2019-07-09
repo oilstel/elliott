@@ -1,6 +1,6 @@
 ---
-title: "4 websites a month"
-date: 2019-06-10 03:00:00 -0400
+title: "4 projects a month"
+date: 2019-07-08 03:00:00 -0400
 color: "#a8c8ff"
 bg-color: "#525c6d"
 ---
