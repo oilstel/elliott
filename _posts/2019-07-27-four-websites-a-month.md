@@ -1,6 +1,6 @@
 ---
 title: "4 projects a month"
-date: 2019-07-08 03:00:00 -0400
+date: 2019-07-27 03:00:00 -0400
 color: "#a8c8ff"
 bg-color: "#525c6d"
 ---
@@ -62,7 +62,13 @@ I've wanted to setup a webcam since I was a kid. This month I finally bought an 
 
 A [series](https://files.elliott.computer/images/sasaki-garden-contact-sheet-1.jpg) of [photographs](https://files.elliott.computer/images/sasaki-garden-contact-sheet-2.jpg) made for an exhibtion in [Sasaki Garden, NY](https://www.google.com/maps?q=Sasaki+Garden&rlz=1C5CHFA_enUS764US764&um=1&ie=UTF-8&sa=X&ved=0ahUKEwj00pjs9qbjAhVlZN8KHRD8CxEQ_AUIECgB). The show included work by [Shintaro Matsuo](http://www.shintaromatsuo.com/) and was curated by [Sean Tatol](http://19933.biz/onpurpose.html).
 
-...
+<span class="number">2.</span>
+
+![](https://files.elliott.computer/images/rare-words-1.jpg)
+
+I'm doing a residency at the creative space [∧°┐](http://vg.pe.hu/2f/) until the end of July. 7/11 is everywhere here and each store has its own printing/copy kiosk. As a traveler its nice to just walk in and print images off your phone taken moments before. The photo printing is super glossy and comes in a variety of sizes. Awhile back I created an app for my phone called TNR writer (short for Times New Roman writer). The app is a simple text editor that saves out a square jpg. There's also an button that changes the background color to a randomly generated color. It's a nice way of making notes and posting them to another app or just storing them in the camera roll. I've been printing these text images at 7/11 and making packs of them. Each pack contains 5 words. I'm calling this project Rare Words, in that a word will only be printed once. The words are packaged in plastic sleeves so that its hard to tell what words are in each pack.
+
+
 
 ...
 
