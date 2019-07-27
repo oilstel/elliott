@@ -3,6 +3,7 @@ title: "4 projects a month"
 date: 2019-07-27 03:00:00 -0400
 color: "#a8c8ff"
 bg-color: "#525c6d"
+icon: "https://files.elliott.computer/images/rare-words-1.jpg"
 ---
 
 <style>
