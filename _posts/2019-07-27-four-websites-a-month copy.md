@@ -69,7 +69,11 @@ A [series](https://files.elliott.computer/images/sasaki-garden-contact-sheet-1.j
 
 I'm doing a residency with [Laurel](http://laurelschwulst.com/) at the creative space [∧°┐](http://vg.pe.hu/2f/greenpeople.html) until the end of July. 7/11 is everywhere here and each store has its own printing/copy kiosk. As a traveler its nice to just walk in and print images off your phone taken moments before. The photo printing is super glossy and comes in a variety of sizes. Awhile back I created an app for my phone called TNR writer (short for Times New Roman writer). The app is a simple text editor that saves out a square jpg. There's also a button that changes the background color to a randomly generated color. It's a nice way of making notes and posting them to another app or just storing them in the camera roll. I've been printing these text images at 7/11 and making packs of them. Each pack contains 5 words. I'm calling this project Rare Words, in that a word will only be printed once. The words are packaged in plastic sleeves so that its hard to tell what words are in each pack.
 
+<span class="number">3.</span>
 
+![](https://files.elliott.computer/images/green-people.jpg)
+
+At the end of the residency at [∧°┐](http://vg.pe.hu/2f/greenpeople.html) (pe hu) the Green People (Laurel and Kazuma and I) held an exhibition. We created a minature diarama and I wrote a [short story](/green-world) on a [Pomera](https://www.amazon.com/KINGJIM-digital-memo-Pomela-Silva/dp/B07CYTVH4Z) about the Green People and their love of silver horses.
 
 ...
 
