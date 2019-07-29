@@ -3,7 +3,7 @@ title: "Green World"
 date: 2019-07-29 03:00:00 -0400
 color: "#3fa530"
 bg-color: "#e0fcdb"
-icon: "https://files.elliott.computer/images/green-people.jpg"
+icon: "https://files.elliott.computer/images/green-people-horses.jpg"
 ---
 
 ![](https://files.elliott.computer/images/green-people-horses.jpg)
