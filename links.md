@@ -4,7 +4,8 @@ title: Links
 permalink: /links/
 hide_email: true
 ---
-        
+      
+<a href="http://vg.pe.hu/jp/" target="_blank">∧°┐</a><br>
 <a href="https://breadyfolks.info/" target="_blank">Bready Folks</a><br>
 <a href="http://explodingjezebel.odie.us" target="_blank">Exploding Jezebel</a><br>
 <a href="http://www.19933.biz/onpurpose.html" target="_blank">On Purpose</a><br>
