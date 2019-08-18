@@ -1,6 +1,6 @@
 ---
-title: "Let's explore the web again"
-date: 2019-06-24 03:00:00 -0400
+title: "Notes on explore pages"
+date: 2019-08-18 03:00:00 -0400
 color: "#61ab24"
 published: true
 ---
