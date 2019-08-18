@@ -13,7 +13,7 @@ When I worked at [The Creative Independent](https://indp.co), we talked about cr
 
 **Randomization as explore page**
 
-It's fairly easy to implement a "randomized items/articles" section on a website. As seen on TCI's website, this simple idea can easily reveal how expansive a site is.
+It's fairly easy to implement a "randomized items/articles" section on a website. As seen on The Creative Independent, this simple idea can easily reveal how expansive a site is.
 
 In 2008 I came across the site Muxtape, which was the original "mixtape on the web" website. It allowed you to upload MP3s from your computer and curate the tracks into a "muxtape". Though the site was eventually shut down, I often think about one key design decision. Muxtape's homepage had a "Random active muxtapes" section that changed on refresh. This simple randomized section gave users a way to explore random muxtapes across the website.
 
