@@ -73,7 +73,7 @@ I'm doing a residency with [Laurel](http://laurelschwulst.com/) at the creative 
 
 ![](https://files.elliott.computer/images/green-people.jpg)
 
-As the the residency at [∧°┐](http://vg.pe.hu/2f/greenpeople.html) (pe hu) came to a close the Green People (Laurel and Kazuma and I) held an exhibition. We created a minature diarama and I wrote a [short story](/green-world) on a [Pomera](https://www.amazon.com/KINGJIM-digital-memo-Pomela-Silva/dp/B07CYTVH4Z) about the Green People and their love of silver horses.
+As the residency at Pehu came to a close the Green People (Laurel, Kazuma, and I) held an exhibition. We created a minature diarama and wrote a [short story](/green-world) on a [Pomera](https://www.amazon.com/KINGJIM-digital-memo-Pomela-Silva/dp/B07CYTVH4Z) about the Green People and their love of silver horses.
 
 ...
 
