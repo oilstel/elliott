@@ -16,7 +16,7 @@ When they build things they make a lot of green dust. They breathe in the green 
 
 緑の人が物体を作り上げるとき、彼らは大量の緑のゴミを出します。そして緑のゴミを吸い込み彼らはより緑色になっていきます。
 
-The green people ride silver horses from dawn until dusk. Horseback riding is the green people’s favorite and only sport. They ride in circles in the tall green grass. The goal is to flatten the grass like the wind does. Green people believe that the wind in the highest power. Being like the wind is being closer to Green.
+The green people ride silver horses from dawn until dusk. Horseback riding is the green people’s favorite and only sport. They ride in circles in the tall green grass. The goal is to flatten the grass like the wind does. Green people believe that the wind is the highest power. Being like the wind is being closer to Green.
 
 緑の人は夜明けから夕暮れまで銀の馬に乗ります。馬の背に乗ることは緑の人のお気に入りで、彼らが行う唯一のスポーツでもあります。緑の草丈の長い芝生の上を円になって乗馬します。目標は風のように芝生をぺしゃんこにすること。緑の人は風こそが最高峰のパワーを持っていると考えています。風のようになることは緑に近づくことだと考えています。 
 
