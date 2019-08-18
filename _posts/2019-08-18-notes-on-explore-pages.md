@@ -19,7 +19,7 @@ In 2008 I came across the site Muxtape, which was the original "mixtape on the w
 
 ![](https://files.elliott.computer/images/muxtape.jpg)
 
-Interestingly, this feature alone replaced the need for a search. The site became centered around exploring mixes instead of searching for a particular mix or a song. I remember spending hours refreshing the homepage, clicking through to a mix, listening, and heading back to the homepage to find another. I've never experienced anything like this on a website. It truly felt like exploring a vast archive similar to the experience of wandering through a book store and randomly choosing a title from a shelf. It was a completely new and exciting experience and it all came from a simple random function without any tricky algorithms or AI.
+Interestingly, this feature alone replaced the need for a search. The site became centered around exploring mixes instead of searching for a particular mix or a song. I remember spending hours refreshing the homepage, clicking through to a mix, listening, and heading back to the homepage to find another. I've never experienced anything like this on a website. It truly felt I was like exploring a vast archive similar to the experience of wandering through a book store and randomly choosing a title from a shelf. It was a completely new and exciting experience and it all came from a simple random function without any tricky algorithms or AI.
 
 Though I doubt anything like Muxtape will ever exist again, I don't think the simple idea of exploring a website through randomization has to be completely lost. This simple design decision showed just how powerful randomization can be without any sort of curation or personalized algorithm.
 
