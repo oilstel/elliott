@@ -28,4 +28,4 @@ In the last few years, platforms have stripped away any notion of how vast they 
 ---
 
 
-*Hey there, thanks for reading this post. I'm an designer, developer, consultant based in New York City currently looking for employment. I'm particularly interested in helping companies make their products more playful and expansive. I can give you a new perspective or your current product or help you build something from scratch. Hope to hear from you: elliottcost@gmail.com.*
+*Hey there, thanks for reading this post. I'm a designer, developer, consultant based in New York City currently looking for employment. I'm particularly interested in helping companies make their products more playful and expansive. I can give you a new perspective or your current product or help you build something from scratch. Hope to hear from you: elliottcost@gmail.com.*
