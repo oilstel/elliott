@@ -1,5 +1,5 @@
 ---
-title: "We need expansive explore pages"
+title: "Let's make better explore pages"
 date: 2019-08-18 03:00:00 -0400
 color: "#61ab24"
 published: true
