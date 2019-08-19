@@ -75,15 +75,13 @@ I'm doing a residency with [Laurel](http://laurelschwulst.com/) at the creative 
 
 As the residency at Pehu came to a close the Green People (Laurel, Kazuma, and I) held an exhibition. We created a minature diarama and wrote a [short story](/green-world) on a [Pomera](https://www.amazon.com/KINGJIM-digital-memo-Pomela-Silva/dp/B07CYTVH4Z) about the Green People and their love of silver horses.
 
-...
-
-...
-
 ---
 
 **August**
 
-...
+<span class="number">1.</span>
+
+I wrote a [post](/exploring-the-vastness-of-a-website/) about exploring vast websites through randomization on this very blog. It got a nice [response](https://news.ycombinator.com/item?id=20732630) from the HN community.
 
 ...
 
