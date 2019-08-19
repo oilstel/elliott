@@ -24,4 +24,4 @@ In the last few years, platforms have stripped away any hint of how vast they ac
 ---
 
 
-*Thanks for reading this post. I'm an artist, designer, and developer based in New York City currently looking for employment. I'm particularly interested in helping companies make their products more playful and expansive. I can give you a new perspective on your current product or help you build something from scratch. [Get in touch](/about).*
+*Thanks for reading this post. I'm an artist, designer, and developer based in New York City currently looking for employment. I'm particularly interested in helping companies make their products more playful and expansive. My email is over [here](/about).*
