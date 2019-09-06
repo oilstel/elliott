@@ -13,6 +13,6 @@ I’m typing this on my new Pocket Keyboard. I’ve been thinking about my phone
 
 ![](https://files.elliott.computer/images/pocket-keyboard-2.jpg)
 
-I've noticed that it's easier to edit my blog while reading it on my phone. I had a reading tracking problem when I was young. I was told to read with a ruler so that I didn't skip lines. I think the small screen size of a phone makes reading/editing easier for me. On a larger screen the lines extend so long that it can be tricky to follow them.
+I've noticed that it's easier to edit my blog while reading it on my phone. I had a reading tracking problem when I was younger. I was told to read with a ruler so that I wouldn't skip lines. I think the small screen size of a phone makes reading/editing easier for me.
 
-What I like about my Pocket Keyboard is that my computer is made up of several components. This is sort of the computer experience that I've always dreamed of. A computer the can be built out of several components that work independently of one another. It reminds me of the fictional sandbender computer that the main character in William Gibson’s Idoru uses. Customizing your computer makes you feel in control of your computing experience.
+What I like about my Pocket Keyboard is that my computer is made up of several components. This is sort of the computer experience that I've always dreamed of: a computer that can be built out of several components that work independently of one another. It reminds me of the fictional sandbender computer that the main character in William Gibson’s *Idoru* uses. Customizing your computer makes you feel more in control of your computing experience.
