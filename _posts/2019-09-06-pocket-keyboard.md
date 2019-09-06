@@ -11,7 +11,7 @@ I’m typing this on my new Pocket Keyboard. I’ve been thinking about my phone
 
 ![](https://files.elliott.computer/images/pocket-keyboard-1.jpg)
 
-![](https://files.elliott.computer/images/pocket-keyboard-2.jpg)
+<!-- ![](https://files.elliott.computer/images/pocket-keyboard-2.jpg) -->
 
 I've noticed that it's easier to edit my blog while reading it on my phone. I had a reading tracking problem when I was younger. I was told to read with a ruler so that I wouldn't skip lines. I think the small screen size of a phone makes reading/editing easier for me.
 
