@@ -71,7 +71,7 @@ ul {
 
 img, video, iframe {
     width: 100%;
-    max-width: 700px;
+    max-width: 375px;
 }
 
 hr {
@@ -84,8 +84,9 @@ hr {
     background: yellowgreen;
 }
 
-article {
-    max-width: 700px;
+header, footer, article {
+    max-width: 375px;
+    margin: 0 auto 0;
 }
 
 #pagination-wrapper {
