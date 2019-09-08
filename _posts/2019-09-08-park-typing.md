@@ -7,7 +7,7 @@ published: true
 icon: https://files.elliott.computer/images/park-display.jpg
 ---
 
-There’s something interesting about writing in public. I love the feeling of typing on a keyboard and looking up to see the park and beyond that the entire world. It's great if you are searching for words. It reminds me a little of swimming in the ocean and seeing the horizon curving slightly in the distance. It feels like a similar state of mind.
+There’s something interesting about writing in public. I love the feeling of typing on a keyboard and looking up to see the park and beyond that the entire world. It's great if you are searching for words. It reminds me a little of swimming in the ocean and seeing the horizon curving slightly in the distance. Both experiences create a similar state of mind.
 
 ![](https://files.elliott.computer/images/park-display.jpg)
 
