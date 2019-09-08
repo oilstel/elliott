@@ -31,6 +31,10 @@ ol li {
     display: inline-block;
 }
 
+h1 span {
+    border-radius: 5px;
+}
+
 h1, h2, h3, h4, .post-list, section, header, .site-title, p, hr, ul {
     margin-bottom: 1em;
 }
