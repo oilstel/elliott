@@ -16,3 +16,5 @@ I’m at the park early today. It's only 8:30. There’s an entirely different g
 ![](https://files.elliott.computer/images/soul-cords.jpg)
 
 Ah it's almost 9 now and the stroller people have arrived in the park. There’s also a family that looks like they might be here for a picnic. A Sunday morning picnic? Sounds a little early, but I can understand the allure if you live close to the park.
+
+<video playsinline autoplay loop muted src="https://files.elliott.computer/videos/keyboard-cat.m4v"></video>
