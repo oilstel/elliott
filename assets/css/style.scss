@@ -1,8 +1,9 @@
 ---
 ---
 
-$font-size: 20px;
-$line-height: 32px;
+$font-size: 18px;
+$line-height: 30px;
+$text-color: #1b126c;
 
 body {
     // background: rgb(218, 218, 218);
@@ -13,7 +14,7 @@ body {
     -webkit-text-size-adjust: none;
     -moz-osx-font-smoothing: grayscale; 
     background: #f7fff9;
-    color: #3e3e3e;
+    color: $text-color;
 }
 
 
@@ -45,7 +46,7 @@ section a {
 }
 
 a {
-    color: #3e3e3e;
+    color: $text-color;
     text-decoration: none;
     // background: rgb(236, 236, 236);
     word-break: break-word;
