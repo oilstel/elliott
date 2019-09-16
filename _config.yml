@@ -3,8 +3,8 @@ email: elliottcost@gmail.com
 author: Elliott Cost
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+# github_username:  jekyll
 google_analytics: UA-81186367-3
 
 # Build settings
