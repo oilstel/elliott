@@ -22,6 +22,8 @@ One way we are trying to spread the word is by having supporters customize their
 
 <p style="border: 1px dotted {{ page.color }}; padding: 10px; border-radius: 10px;"><em>Just changed my avatar to a leaf for <a href="https://twitter.com/search?q=%23emptyday&src=typeahead_click&f=live">#emptyday</a>. I'll be taking a one day vacation from social media on October 12th to reconnect with people IRL.</em></p>
 
+<p style="border: 1px dotted {{ page.color }}; padding: 10px; border-radius: 10px;"><em>I have made my avatar into a leaf in honor of <a href="https://twitter.com/search?q=%23emptyday&src=typeahead_click&f=live">#emptyday</a>. I pledge to not use social media on October 12, 2019. October is world mental health month, and I want to use my networked device in a healthier way for my mind and body.</em></p>
+
 Of course, you can change it back whenever you’d like but we would love if you kept your leaf until October 12. It would be amazing if you encouraged others to do so too but no pressure.
 
 Lastly, just wanted to be clear that we are not company, charity, or any other organization. We are just a few people that would like to see social media used in more creative and healthier ways. Find out more info about our project over [here](https://emptyday.today/).
