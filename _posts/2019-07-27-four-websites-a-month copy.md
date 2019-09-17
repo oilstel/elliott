@@ -18,7 +18,7 @@ icon: "https://files.elliott.computer/images/rare-words-1.jpg"
     }
 </style>
 
-*Update: I realized soon after posting this that I had to revise the rules. Instead of makes 4 websites per month, I will be publishing 4 projects per month. A "project" could just a some writing on this very blog or a series of photographs taken in a park.*
+*Update: I realized soon after posting this that I had to revise the rules. Instead of making 4 websites per month, I will be publishing 4 projects per month. A "project" could just a some writing on this very blog or a series of photographs taken in a park.*
 
 ---
 
