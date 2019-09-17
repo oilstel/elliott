@@ -18,7 +18,7 @@ To make this a reality, we need a lot of help getting the word out there, primar
 
 ![](https://files.elliott.computer/images/leaf-avatars.png)
 
-One way we are trying to spread the word is by having supporters customize their social media avatars into the shapes of leaves. Our hope is to turn social media into a forest. It’s a simple way of collectively showing that we will be absent from social media on 10/12. If you would like to pledge your support, please consider making a leaf avatar. I built a [little tool for doing just that here](https://emptyday.today/tools/leaf/). You could also tell your followers why you are changing your avatar to a leaf. Something like:
+One way we are trying to spread the word is by asking supporters to customize their social media avatars into the shapes of leaves. Our hope is to turn social media into a forest. It’s a simple way of collectively showing that we will be absent from social media on 10/12. If you would like to pledge your support, please consider making a leaf avatar. I built a [little tool for doing just that here](https://emptyday.today/tools/leaf/). You could also tell your followers why you are changing your avatar to a leaf. Something like:
 
 <p style="border: 1px dotted {{ page.color }}; padding: 10px; border-radius: 10px;"><em>Just changed my avatar to a leaf for <a href="https://twitter.com/search?q=%23emptyday&src=typeahead_click&f=live">#emptyday</a>. I'll be taking a one day vacation from social media on October 12th to reconnect with people IRL.</em></p>
 
