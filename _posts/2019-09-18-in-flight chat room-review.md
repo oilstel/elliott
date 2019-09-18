@@ -4,7 +4,7 @@ date: 2019-09-18 03:00:00 -0400
 color: "#2993ba"
 bg-color: "#f7f7f7"
 published: true
-icon: https://files.elliott.computer/images/leaf-post.png
+icon: https://files.elliott.computer/images/in-flight-chat-room.jpg
 ---
 
 ![](https://files.elliott.computer/images/in-flight-chat-room.jpg)
