@@ -1,6 +1,6 @@
 <select id="menu" onchange="window.open(this.value,'_self');">
 
-    <option value="{{ site.url }}" {% if page.is_home == true %}selected{% endif %}>elliott</option>
+    <option value="/" {% if page.is_home == true %}selected{% endif %}>elliott</option>
 
 {% assign posts_query = site.posts | where: "type", "pots" %}
 
