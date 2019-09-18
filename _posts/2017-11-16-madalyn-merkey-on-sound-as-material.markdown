@@ -36,6 +36,7 @@ audio_player: true
 arena_channel_id: madalyn-merkey-on-sound-as-material
 color: "#155b00"
 type: interview
+published: false
 ---
 
 [Madalyn Merkey](https://madalynmerkey.bandcamp.com) is a composer and performer of live computer music based in the San Francisco Bay Area. Her recent work observes the principles of acoustic instruments and material spaces to design real-time sound synthesis programs for site-specific performances.

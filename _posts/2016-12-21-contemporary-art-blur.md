@@ -1,7 +1,8 @@
 ---
 title: "Contemporary Art Blur"
 date: 2016-12-21 03:00:00 -0400
-color: "#cecd7d"
+color: "#faffd3"
+bg-color: "#78a8a8"
 ---
 
 ![](https://files.elliott.computer/images/contemporary-art-blur.png)

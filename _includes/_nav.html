@@ -1,0 +1,17 @@
+<select id="menu" onchange="window.open(this.value,'_self');">
+
+    <option value="{{ site.url }}" {% if page.is_home == true %}selected{% endif %}>elliott</option>
+
+{% assign posts_query = site.posts | where: "type", "pots" %}
+
+{%- for post in site.posts -%}
+    {%- assign date_format = site.minima.date_format | default: "%B %-d, %Y" -%}
+    <option value="{{ post.url }}" {% if post.title == page.title %}selected{% endif %}>{{ post.title | escape }}</option>
+{%- endfor -%}
+
+{%- for item in site.pages -%}
+    {% if item.is_page %}
+    <option value="{{ item.url }}" {% if item.title == page.title %}selected{% endif %}>{{ item.title | escape }}</option>
+    {% endif %}
+{%- endfor -%}
+</select>

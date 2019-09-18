@@ -25,6 +25,7 @@ weekly_quote_md: I like being online and I want to continue being online, but I 
   looking to these communities that are exploring how to be online in radical ways,
   is really important.
 color: "#ce8208"
+published: false
 ---
 
 [Tara Vancil](https://taravancil.com/) helped build [Beaker](https://beakerbrowser.com/), an experimental browser for exploring and building the peer-to-peer Web. Previously, she participated in the Recurse Center and was a developer at Cloudflare. When she’s not building websites, she spends her time doing [nails](https://taravancil.com/nails).

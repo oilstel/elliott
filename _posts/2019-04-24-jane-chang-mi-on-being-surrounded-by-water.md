@@ -3,6 +3,7 @@ title: Jane Chang Mi on being surrounded by water
 date: 2019-04-24 03:00:00 -04:00
 type: interview
 color: "#29386F"
+published: false
 ---
 
 As an ocean engineer and an artist, [Jane Chang Mi](http://janecmi.com/) considers the post-colonial environment. She assesses the narratives associated with the landscape through an interdisciplinary and research-based lens. Utilizing multiple mediums, she investigates the land by examining our past, present, and future as we journey towards a technologically oriented society.

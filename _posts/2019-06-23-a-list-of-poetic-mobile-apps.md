@@ -24,6 +24,4 @@ color: "#ccbe9b"
 
 [Weird Type by Zach Lieberman](https://apps.apple.com/us/app/weird-type/id1352785248)
 
----
-
 

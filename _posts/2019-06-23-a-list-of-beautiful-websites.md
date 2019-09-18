@@ -46,5 +46,3 @@ Below I've compiled a list of the most beautiful websites I've ever seen.
 [Cryptowatch (https://cryptowat.ch/markets/kraken/btc/usd/1h)](https://cryptowat.ch/markets/kraken/btc/usd/1h)
 
 *To be continued...*
-
----

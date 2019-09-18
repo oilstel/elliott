@@ -1,8 +1,8 @@
 ---
 title: "Pocket Keyboard"
 date: 2019-09-06 03:00:00 -0400
-color: "#eb4034"
-bg-color: "#e8d4ba"
+color: "#7d1561"
+bg-color: "#fafafa"
 published: true
 icon: https://files.elliott.computer/images/pocket-keyboard-2.jpg
 ---

@@ -19,8 +19,10 @@
     <link rel="stylesheet" href="{{ "assets/css/style.css" | relative_url }}">
 
     <style>
-        hr {
-            background: {{ page.color }}
+        body {
+            color: {{ page.color }};
+            background: {{ page.bg-color }};
         }
+        hr { background: {{ page.color }}; }
     </style>
 </head>

@@ -25,6 +25,7 @@ weekly_quote_md: You could even argue that there is no such thing as something n
   But I think one benchmark could be making something that no one asked for. That
   could be something new.
 color: "#095e2f"
+published: false
 ---
 
 [Sean Raspet](http://seanraspet.org/) is an artist who works with food and fragrance, developing new flavors and scents that challenge commercial conventions of taste. Raspet’s work pushes the limits of the art world, crossing disciplinary lines into the realms of science and finance. He has worked in the Research and Development department at Soylent and is a co-founder of [Nonfood](https://eatnonfood.com/), a company that specializes in algae-based food products.

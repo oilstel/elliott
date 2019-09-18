@@ -1,8 +1,9 @@
 ---
-layout: default
-title: Links
-permalink: /links/
-hide_email: true
+layout: page
+title: Friends
+permalink: /friends/
+is_page: true
+is_footer: false
 ---
       
 <a href="http://vg.pe.hu/jp/" target="_blank">∧°┐</a><br>
@@ -18,6 +19,7 @@ hide_email: true
 <a href="http://psalm.us/" target="_blank">Psalmus Diuersae</a><br>
 <a href="http://www.walgreens2.com/?i%20went%20to%20walgreens%20to%20get%20batteries,%20a%20flashlight,%20and%20tic%20tacs" target="_blank">Alix Jean Vollum</a><br>
 <a href="http://joshminkus.com/?josh%20minkus%20has%20a%20hat%20with%20a%20long%20bill" target="_blank">Josh Minkus</a><br>
+<a href="http://cdxs.ist" target="_blank">Becca Abbe</a><br>
 <a href="http://sinuskid13.com" target="_blank">Dayton Castleman</a><br>
 <a href="http://www.19933.biz/" target="_blank">Sean Tatol</a><br>
 <a href="http://www.pied-terre.com/" target="_blank">Pied-à-terre</a><br>
@@ -34,8 +36,4 @@ hide_email: true
 <a href="https://jongacnik.com/" target="_blank">Jon Gacnik</a><br>
 <a href="https://www.jakesollins.com/" target="_blank">Jake Sollins</a><br>
 <a href="https://haleakala.today/" target="_blank">Things to do on Maui</a><br>
-
-<br>
-
-<div style="display: inline-block; width: 196px; margin-right: 0.5em;"> <a href="http://emptyday.today" sytle="display: block;"> <img src="http://emptyday.today/icons/leaf-emptyday-icon11.png" width="196" style="display: block; margin-bottom: 18px;"> </a><div style="font-family: serif; font-size: 18px; line-height: 24px; margin-bottom: 18px; text-align: center;"> <a href="http://emptyday.today" style="color: black; background: transparent;">http://emptyday.today</a><br> October 11, 2019</div></div>
 

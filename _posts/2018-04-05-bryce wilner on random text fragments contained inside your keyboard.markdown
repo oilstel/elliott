@@ -22,6 +22,7 @@ author:
 - Lily Bartle
 color: "#d1f442"
 bg-color: "#1d8791"
+published: false
 ---
 
 Bryce Wilner is a graphic designer and publisher currently based in New Haven.

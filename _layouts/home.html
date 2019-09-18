@@ -1,47 +1,24 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 
-<!-- <style>
-  body {
-    background: url('http://67.245.251.197:9080/axis-cgi/mjpg/video.cgi?resolution=1280x720');
-    background-size: 170%;
-    background-position: center top;
-    color: #fff;
-  }
-</style> -->
+  {%- include _meta.html -%}
 
-<div class="home">
+  <body>
 
-  {{ content }}
+    {%- include _header.html -%}
 
-  <article>
-  {%- if site.posts.size > 0 -%}
-    <section>
-        <!-- <h2>Posts</h2> -->
+    <article>
+          <header class="post-header">
+            {%- include _nav.html -%}
+          </header>
+        
+          <div class="post-content">
+            {{ content }}
+          </div>
+    </article>
 
-          {% assign posts_query = site.posts | where: "type", "pots" %}
+    {%- include _footer.html -%}
 
-          {%- for post in site.posts -%}
-            {%- assign date_format = site.minima.date_format | default: "%B %-d, %Y" -%}
-              <div class="post-link-wrapper">
-                <a class="post-link" href="{{ post.url | relative_url }}">
-                  <span class="dot" style="border: 1px solid {{ post.color }}; background: {{ post.bg-color }}"></span>
-                  {{ post.title | escape }} {%- if post.type == 'interview' -%}&nbsp;<span class="type">[interview]</span>{%- endif -%}
-                </a>
-              </div>
-          {%- endfor -%}
+  </body>
 
-    </section><br />
-    
-    <p class="feed-subscribe"><a href="{{ "/feed.xml" | relative_url }}">Subscribe</a></p>
-  {%- endif -%}
-  </article>
-  
-  <img src="http://67.245.251.197:9080/axis-cgi/mjpg/video.cgi?resolution=1280x720"  />
-
-  <br /><br />
-
-  <br /><br />
-
-</div>
+</html>

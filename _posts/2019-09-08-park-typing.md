@@ -1,7 +1,7 @@
 ---
 title: "Park typing"
 date: 2019-09-08 03:00:00 -0400
-color: "#32a852"
+color: "#063914"
 bg-color: "#e8e6cc"
 published: true
 icon: https://files.elliott.computer/images/park-display.jpg

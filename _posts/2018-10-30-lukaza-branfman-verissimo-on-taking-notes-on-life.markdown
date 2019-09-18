@@ -3,6 +3,7 @@ title: Lukaza Branfman-Verissimo on taking notes on life
 date: 2018-10-30 03:00:00 -04:00
 type: interview
 color: "#3f8251"
+published: false
 ---
 
 [Lukaza Branfman-Verissimo](http://www.lukazabranfman-verissimo.com) is an artist, educator, activist, storyteller, and curator based in Oakland, California.
