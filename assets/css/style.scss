@@ -108,13 +108,9 @@ hr {
     background: yellowgreen;
 }
 
-header {
-    margin-bottom: 2em !important;
-}
-
 header, footer, article {
     max-width: 375px;
-    margin: 0 auto 0;
+    margin: 1em auto;
 }
 
 footer {
@@ -136,12 +132,8 @@ a.post-link {
     display: inline;
 }
 
-@media (max-width: 700px) {
-    // .post-link-wrapper {
-    //     margin-bottom: .5em;
-    // }
-
-    // .site-title, h1, section a {
-    //     line-height: 23px;
-    // }
+@media (max-width: 375px) {
+    header, footer, article {
+        max-width: 100%;
+    }
 }
