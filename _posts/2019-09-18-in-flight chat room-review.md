@@ -9,7 +9,7 @@ icon: https://files.elliott.computer/images/in-flight-chat-room.jpg
 
 ![](https://files.elliott.computer/images/in-flight-chat-room.jpg)
 
-On my flight's entertainment system there’s a "talk" feature. Tapping this button shows three options: "seat-to-seat", "chat room", and "help". Clicking "seat-to-seat" displays a cross-section of the plane (5 columns / 3 rows). At the bottom, it says:
+On my flight's entertainment system there’s a "talk" feature. Tapping this button shows three options: "seat-to-seat", "chat room", and "help". Tapping "seat-to-seat" displays a cross-section of the plane (5 columns / 3 rows). At the bottom, it says:
 
 <p style="border: 1px dotted {{ page.color }}; padding: 10px; border-radius: 10px;">
     Select any available seat to invite the passenger to chat.<br />
