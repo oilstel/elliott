@@ -81,6 +81,6 @@ What’s your favorite airport?
 What do you think of this airplane chat? Do you use chat apps regularly?
 </p>
 
-Well, that’s all for now. This didn't really end up being a review of the in-flight chat system beacuse of technical difficulties... more like of pondering the potential of intimate chat systems in the real world. The captain told us that we will be landing soon and that we will all need to log off the chat room. See you on the next flight.
+Well, that’s all for now. This didn't really end up being a review of the in-flight chat system beacuse of technical difficulties... more like pondering the potential of intimate chat systems in the real world. The captain told us that we will be landing soon and that we will all need to log off the chat room. See you on the next flight.
 
 ![](https://files.elliott.computer/images/flight-control.jpg)
