@@ -5,7 +5,7 @@ is_home: true
 
 <img src="https://files.elliott.computer/images/elliott-crop.jpg" style=" max-width:100%" />
 
-Welcome to my blog. That's a photo of me with a cloud above my head. Post's on this blog are written on my [Pocket Keyboard](/pocket-keyboard).
+Welcome to my blog. That's a photo of me with a cloud above my head. Posts on this blog are written on my [Pocket Keyboard](/pocket-keyboard).
 
 Some other places:
 
