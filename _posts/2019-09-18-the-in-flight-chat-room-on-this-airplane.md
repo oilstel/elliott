@@ -1,5 +1,5 @@
 ---
-title: "Thoughts on the in-flight chat room on this airplane"
+title: "The in-flight chat room on this airplane"
 date: 2019-09-18 03:00:00 -0400
 color: "#fff"
 bg-color: "#10558a"
