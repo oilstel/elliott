@@ -29,7 +29,7 @@ In many ways, an airplane is a perfect place for a chat room. There’s really n
 
 **Worldbuilding**
 
-I like flying because it can make you feel like the whole world is far away, which is pretty much true. The airplane creates a small cramped microworld made up of 185 other humans. The onboard chat app is literally based on this real-world situation. What if more chat apps were built around existing conditions in this way. I think that this is partly why group chats are so appealing. They are often based on real-world constraints or preexisting relations. *For example, a chat room that only includes the members of a house or a group of friends on a trip together. Group chats are often linked to these microworlds.*
+I like flying because it can make you feel like the whole world is far away, which is pretty much true. The airplane creates a small cramped microworld made up of 185 other humans. The onboard chat app is literally based on this real-world situation. What if more chat apps were built around existing conditions in this way. I think that this is partly why group chats are so appealing. They are often based on real-world constraints or preexisting relations. *For example, a chat room that only includes the members of a house or a group of friends on a trip together.* Group chats are often linked to these microworlds.
 
 <!-- Also, airplane space is a bit different from land space. Up in the air, locked in a floating capsule, you have to make the best out of the experience. Who are you going to befriend up here if things take a turn for the worst? You and 185 other strangers are suddenly somewhat accountable to one another. -->
 
@@ -90,7 +90,7 @@ What’s your favorite airport?
 </p>
 
 <p style="border: 1px dotted {{ page.color }}; padding: 10px; border-radius: 10px;">
-What do you think of this airplane chat? Do you use chat apps regularly?
+What do you think of this chat room? Do you use chat apps regularly?
 </p>
 
 ...
